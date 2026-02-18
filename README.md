@@ -37,7 +37,10 @@ If you use this dataset, code, or prompts in your research, please cite the foll
 ### 3. Screens:
 Multiple images showcasing the various interfaces that are part of the study, organized sequentially to match the progression in the experiment.
 
-### 4. Scripts (with tables):
+### 4. Scripts:
 
-#### RQ1 – Behavior Choice
-#### RQ2 – User Perceptions
+#### RQ2 – Behavior Choice
+#### RQ3 –
+#### RQ4 –
+
+### 5. Tables:
