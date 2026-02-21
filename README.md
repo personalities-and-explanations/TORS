@@ -35,7 +35,7 @@ If you use this dataset, code, or prompts in your research, please cite the foll
 2. **final_prompts_portuguese.json:** Contains the finalized prompt templates in Portuguese used to generate personality-aligned explanations for music recommendations.
 
 ### 3. Screens:
-Multiple images showcasing the various interfaces that are part of the study, organized sequentially to match the progression in the experiment.
+Multiple images showcasing the various interfaces that are part of the study, organized sequentially to match the study flow.
 
 ### 4. Scripts:
 
